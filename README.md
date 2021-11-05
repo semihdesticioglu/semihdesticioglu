@@ -35,7 +35,7 @@ Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data 
      
   
   <a href="https://www.youtube.com/channel/UCxNTsMhVzAI9i0gWS6TcsVQ">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
    
   
