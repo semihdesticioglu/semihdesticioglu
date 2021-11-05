@@ -5,5 +5,3 @@ Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data 
 
 📫 How to reach me: https://www.linkedin.com/in/semihdesticioglu/
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-
