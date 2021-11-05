@@ -14,9 +14,9 @@ I completed my master degree on Data Science at Sabanci University. I'a data sci
 
 Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data Analysis, Data Modelling, HTML/CSS
 
-<p align='center'>
-   Click To Reach Me: 
-</p>
+<h3 align='center'>
+   Click Links Below To Reach Me 
+</h3>
 <p align='center'>
   
    <a href="https://semihdesticioglu.github.io/semihdesticioglu/">
