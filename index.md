@@ -12,6 +12,7 @@ Skills:
 + Data Modelling
 + HTML/CSS
 
+
 ## Portfolio
 
 ---
@@ -75,9 +76,19 @@ In this project, we will build a Multioutput Classification model to predict mes
 
 Github Repo : https://github.com/semihdesticioglu/twitter-nlp-classifier
 
-<img src="images/classifying_example.gif?raw=true" width="600"  height="300" />
+<img src="images/classifying_example.gif?raw=true" width="500"  height="300" />
 ---
 
+### Creating My Own Python Package 
+
+In this project, I created a Distribution Package . Package contains functions to make calculations for normal distributions, binomial distributions and Gaussian distributions. Package is uploaded to PyPi repository.
+
+You can install my package with this command :  pip install distributions-semihdesticioglu==0.1
+
+Github Repo : https://github.com/semihdesticioglu/distributions-semihdesticioglu-0.1
+
+<img src="images/Pypiorg-capture.jpg?raw=true" width="500"  height="300" />
+---
 
 
 ---
