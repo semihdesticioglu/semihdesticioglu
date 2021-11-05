@@ -50,7 +50,7 @@ In this project , I tried to create a churn model with the given data. Creating 
 
 You can find this project's Medium article on this link : https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c
 
-<img src="images/comparison.png?raw=true" width="500"  height="300"/>
+<img src="images/comparison.png?raw=true" />
 
 ---
 ### Category Name 4
