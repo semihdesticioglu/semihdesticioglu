@@ -3,7 +3,11 @@ logo: "/images/semihdest.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MSc in Data Science, Sabanci University.
   Senior Expert Data Analyst at Turkcell Technology.
-
+  
+  <br><br>
+  Second description 
+  <br><br>
+  
   <a href="https://www.linkedin.com/in/semihdesticioglu/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
