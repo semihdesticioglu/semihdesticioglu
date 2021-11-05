@@ -53,12 +53,30 @@ You can find this project's Medium article on this link : https://medium.com/@se
 <img src="images/comparison.png?raw=true" />
 
 ---
-### Category Name 4
+### Amazon & MediaMarkt Smartphone Prices Web Scraping Project
 
+This project aims to get smartphone and other devices' current prices from Amazon and MediaMarkt websites by web scraping.
+Selenium, BeatifulSoup and Request libaries are used for scraping.
+Scraping algorithm collects product models, brands, old and new prices from Amazon & MediaMarkt websites and build Pandas dataframes with these collections.
 
+I was nominated to CXO prize with this RPA tool. It is used for monitoring the competitor prices in Turkcell. Tool was sending daily auto-emails with scraped price lists.
+
+Github Repo : https://github.com/semihdesticioglu/WebScrapingProject
+
+<img src="images/DataframeCapture.jpg?raw=true" width="500"  height="300" />
 
 ---
 
+### Disaster Response Project - Multioutput NLP Classifier
+
+This project aims building a Natural Language Processing (NLP) model to categorize messages for possible disaster events that could happen in future.
+
+In this project, we will build a Multioutput Classification model to predict message categories in future possible disasters.There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help,Food, Death etc. By classifying these messages, we can help government or other aid organizations about prioritizing critical messases in possible disaster events. 
+
+Github Repo : https://github.com/semihdesticioglu/twitter-nlp-classifier
+
+<img src="images/classifying_example.gif?raw=true" width="600"  height="400" />
+---
 
 
 
