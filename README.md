@@ -45,6 +45,7 @@ Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data 
  
 </p>
 
+
 <p align='center'>
-  ![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={semihdesticioglu}})
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihdesticioglu&show_icons=true&count_private=true" width="350"></a>
 </p>
