@@ -43,9 +43,14 @@ Link to the app: https://covid19turkiye.herokuapp.com/
 
 ---
 
-### Category Name 3
+### Music App Churn Prediction with Pyspark on IBM Cloud Pak
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this project , I tried to create a churn model with the given data. Creating new features on feature engineering section added valueable improvements to the model.
+
+
+You can find this project's Medium article on this link : https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c
+
+<img src="images/comparison.png?raw=true" width="500"  height="300"/>
 
 ---
 ### Category Name 4
