@@ -9,15 +9,14 @@
 
 I love doing data analysis projects and creating products with data. I'm currently working as a Senior Expert Data Analyst in Turkcell.
 
-I completed my master degree on Data Science at Sabanci University.
+I completed my master degree on Data Science at Sabanci University. I'a data science content writer for Analytics Vidyha at Medium.
 
-I have bussines units experience on sales and stock planning in technology retail.
 
 Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data Analysis, Data Modelling, HTML/CSS
 
-
-📫 Click to reach me: 
-
+<p align='center'>
+   Click To Reach Me: 
+</p>
 <p align='center'>
   
    <a href="https://semihdesticioglu.github.io/semihdesticioglu/">
@@ -34,15 +33,12 @@ Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data 
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
      
-  <a href="desticioglu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
   
   <a href="https://www.youtube.com/channel/UCxNTsMhVzAI9i0gWS6TcsVQ">
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
   </a>&nbsp;&nbsp;
    
- 
+  
 </p>
 
 
