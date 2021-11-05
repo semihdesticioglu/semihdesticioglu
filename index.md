@@ -38,7 +38,7 @@ For front-end development bootstrap, javascript and CSS are used together on HTM
 
 Link to the app: https://covid19turkiye.herokuapp.com/
 
-<img src="/images/covid19.gif" width="500"  height="300" /> 
+<img src="images/covid19.gif" width="500"  height="300" /> 
 
 
 ---
