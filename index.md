@@ -77,6 +77,7 @@ In this project, we will build a Multioutput Classification model to predict mes
 Github Repo : https://github.com/semihdesticioglu/twitter-nlp-classifier
 
 <img src="images/classifying_example.gif?raw=true" width="500"  height="300" />
+
 ---
 
 ### Creating My Own Python Package 
