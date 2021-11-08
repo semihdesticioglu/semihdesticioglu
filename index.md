@@ -26,7 +26,7 @@ Project's scope is explaratory data analysis with visuals and maps, applying sta
 
 All analyses are can be found on Medium Post : [https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac](https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac) 
 
-Github Repo : https://github.com/semihdesticioglu/airbnb_istanbul
+Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://github.com/semihdesticioglu/airbnb_istanbul)
 
 
 ---
@@ -37,7 +37,7 @@ It is built using Python's Flask Web Framework and deployed on Heroku cloud.
 Plotly library from Python is used to visualise data.
 For front-end development bootstrap, javascript and CSS are used together on HTML.
 
-Link to the app: https://covid19turkiye.herokuapp.com/
+Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.herokuapp.com/)
 
 <img src="images/covid19.gif" width="500"  height="300" /> 
 
@@ -49,7 +49,7 @@ Link to the app: https://covid19turkiye.herokuapp.com/
 In this project , I tried to create a churn model with the given data. Creating new features on feature engineering section added valueable improvements to the model.
 
 
-You can find this project's Medium article on this link : https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c
+You can find this project's Medium article on this link : [https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c](https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c)
 
 <img src="images/comparison.png?raw=true" />
 
@@ -62,7 +62,7 @@ Scraping algorithm collects product models, brands, old and new prices from Amaz
 
 I was nominated to CXO prize with this RPA tool. It is used for monitoring the competitor prices in Turkcell. Tool was sending daily auto-emails with scraped price lists.
 
-Github Repo : https://github.com/semihdesticioglu/WebScrapingProject
+Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://github.com/semihdesticioglu/WebScrapingProject)
 
 <img src="images/DataframeCapture.jpg?raw=true" width="500"  height="300" />
 
@@ -74,7 +74,7 @@ This project aims building a Natural Language Processing (NLP) model to categori
 
 In this project, we will build a Multioutput Classification model to predict message categories in future possible disasters.There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help,Food, Death etc. By classifying these messages, we can help government or other aid organizations about prioritizing critical messases in possible disaster events. 
 
-Github Repo : https://github.com/semihdesticioglu/twitter-nlp-classifier
+Github Repo : [https://github.com/semihdesticioglu/twitter-nlp-classifier](https://github.com/semihdesticioglu/twitter-nlp-classifier)
 
 <img src="images/classifying_example.gif?raw=true" width="500"  height="300" />
 
@@ -86,7 +86,7 @@ In this project, I created a Distribution Package . Package contains functions t
 
 You can install my package with this command :  pip install distributions-semihdesticioglu==0.1
 
-Github Repo : https://github.com/semihdesticioglu/distributions-semihdesticioglu-0.1
+Github Repo : [https://github.com/semihdesticioglu/distributions-semihdesticioglu-0.1](https://github.com/semihdesticioglu/distributions-semihdesticioglu-0.1)
 
 <img src="images/Pypiorg-capture.jpg?raw=true" width="500"  height="300" />
 ---
