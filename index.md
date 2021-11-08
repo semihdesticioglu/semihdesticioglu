@@ -24,7 +24,7 @@ Skills:
 In this project, I tried to analyze Airbnb Istanbul data and answer some questions about the data.
 Project's scope is explaratory data analysis with visuals and maps, applying statistical test to data to answer the questiones correctly.
 
-All analyses are can be found on Medium Post : https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac
+All analyses are can be found on Medium Post : [https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac](https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac) 
 
 Github Repo : https://github.com/semihdesticioglu/airbnb_istanbul
 
