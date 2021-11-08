@@ -32,7 +32,7 @@ Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://gith
 ---
 ### Turkcell AI Vision Challenge Contest Project
 
-Turkcell AI Vision Challenge competition was held in my company internally and I won the prize with my winning project.Out of 120 project, it is awarded as 1st. 
+Turkcell AI Vision Challenge competition was held in my company internally and I won the prize with my winning project. Out of 120 project, it is awarded as 1st. 
 I created a CNN deep learning algorithm using Pytorch library and pre-trained Resnet-18 model with transfer learning approach.
 
 Github Repo: [https://github.com/semihdesticioglu/t-ai-vision-challenge](https://github.com/semihdesticioglu/t-ai-vision-challenge)
