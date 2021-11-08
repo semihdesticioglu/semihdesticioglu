@@ -1,5 +1,9 @@
 ## Bio
-I'm a Data Analyst with Data Science Master Degree. I love doing data analysis projects and creating products with data. I have bussines units experience on sales and stock planning in technology retail.
+I love doing data analysis projects and creating products with data. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team.
+
+I completed my master degree on Data Science at Sabanci University at 2020 and also writing for data science contents at Analytics Vidyha Medium blogpage.
+
+I won the Turkcell AI Vision Challenge competition that was held in my company at 2020-05 with my CNN deep learning model.
 
 Skills: 
 + Python
@@ -37,7 +41,7 @@ I created a CNN deep learning algorithm using Pytorch library and pre-trained Re
 
 Github Repo: [https://github.com/semihdesticioglu/t-ai-vision-challenge](https://github.com/semihdesticioglu/t-ai-vision-challenge)
 
-<img src="images/t-ai-vision-challenge-mail.jpg" width="500"  height="300" /> 
+<img src="images/t-ai-vision-challenge-mail.jpg" width="700"  height="300" /> 
 
 
 ---
@@ -77,7 +81,7 @@ I was nominated to CXO prize with this RPA tool. It is used for monitoring the c
 
 Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://github.com/semihdesticioglu/WebScrapingProject)
 
-<img src="images/DataframeCapture.jpg?raw=true" width="800"  height="500" />
+<img src="images/DataframeCapture.jpg?raw=true" width="500"  height="300" />
 
 ---
 
