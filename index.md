@@ -30,6 +30,18 @@ Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://gith
 
 
 ---
+### Turkcell AI Vision Challenge Contest Project
+
+Turkcell AI Vision Challenge competition was held in my company internally and I won the prize with my winning project.Out of 120 project, it is awarded as 1st. 
+I created a CNN deep learning algorithm using Pytorch library and pre-trained Resnet-18 model with transfer learning approach.
+
+Github Repo: [https://github.com/semihdesticioglu/t-ai-vision-challenge](https://github.com/semihdesticioglu/t-ai-vision-challenge)
+
+<img src="images/t-ai-vision-challenge-mail.jpg" width="500"  height="300" /> 
+
+
+---
+
 ### Covid-19 Dashboard Turkey 💻 📈 by Using Python 🐍
 
 End-to-end dashboard project to visualize COVID 19 data of Turkey.
@@ -43,6 +55,7 @@ Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.
 
 
 ---
+
 
 ### Music App Churn Prediction with Pyspark on IBM Cloud Pak
 
@@ -64,7 +77,7 @@ I was nominated to CXO prize with this RPA tool. It is used for monitoring the c
 
 Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://github.com/semihdesticioglu/WebScrapingProject)
 
-<img src="images/DataframeCapture.jpg?raw=true" width="500"  height="300" />
+<img src="images/DataframeCapture.jpg?raw=true" width="800"  height="500" />
 
 ---
 
