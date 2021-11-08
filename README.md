@@ -7,7 +7,7 @@
   Data Analyst with Data Science Master Degree, from Istanbul/Turkey. 
 </p>
 
-I love doing data analysis projects and creating products with data. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence Directorship.
+I love doing data analysis projects and creating products with data. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence Team.
 
 I completed my master degree on Data Science at Sabanci University at 2020 and also writing for data science contents at Analytics Vidyha Medium blogpage.
 
