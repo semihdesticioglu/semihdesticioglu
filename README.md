@@ -9,7 +9,7 @@
 
 I love doing data analysis projects and creating products with data. I'm currently working as a Senior Expert Data Analyst in Turkcell.
 
-I completed my master degree on Data Science at Sabanci University. I'a data science content writer for Analytics Vidyha at Medium.
+I completed my master degree on Data Science at Sabanci University and also writing for data science contents at Analytics Vidyha Medium blogpage.
 
 
 Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data Analysis, Data Modelling, HTML/CSS
