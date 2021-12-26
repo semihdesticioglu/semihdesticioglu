@@ -8,12 +8,14 @@
 </p>
 
 I'm a Data Scientist with Data Science Master Degree. I am highly skilled in data analytics and machine learning. I have business units experience in B2B Marketplace Analytics and data analytics projects in sales units.
+
 Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team.
 
 Completed my master's degree in Data Science at Sabanci University in 2020 and also writing for data science content at the Analytics Vidyha Medium blog page.
 I became first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
 
 My Web Page with Portfolio: https://semihdesticioglu.github.io/semihdesticioglu/
+
 Medium Articles: https://semihdesticioglu.medium.com/
 
 Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data Analysis, Data Modelling, HTML/CSS
