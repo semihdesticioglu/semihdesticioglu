@@ -1,5 +1,6 @@
 ## Bio
 I'm a Data Scientist with Data Science Master Degree. I am highly skilled in data analytics and machine learning. I have business units experience in B2B Marketplace Analytics and data analytics projects in sales units.
+
 Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team.
 
 Completed my master's degree in Data Science at Sabanci University in 2020 and also writing for data science content at the Analytics Vidyha Medium blog page.
