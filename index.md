@@ -29,8 +29,7 @@ Skills:
 
 <img src="https://miro.medium.com/max/2000/1*9N7PTJYYvUEqIQZnDJh4LQ.jpeg" width="500"  height="300"/>
 
-In this project, I tried to analyze Airbnb Istanbul data and answer some questions about the data.
-Project's scope is explaratory data analysis with visuals and maps, applying statistical test to data to answer the questiones correctly.
+I analyzed Airbnb Istanbul data and answer some questions about the data. The project’s scope is exploratory data analysis with visuals and maps, applying a statistical test to data to answer the questions correctly.
 
 All analyses are can be found on Medium Post : [https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac](https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac) 
 
@@ -93,7 +92,7 @@ Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://g
 
 This project aims building a Natural Language Processing (NLP) model to categorize messages for possible disaster events that could happen in future.
 
-In this project, we will build a Multioutput Classification model to predict message categories in future possible disasters.There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help,Food, Death etc. By classifying these messages, we can help government or other aid organizations about prioritizing critical messases in possible disaster events. 
+In this project, I have built a Multioutput Classification model to predict message categories in future possible disasters.There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help,Food, Death etc. By classifying these messages, we can help government or other aid organizations about prioritizing critical messases in possible disaster events. 
 
 Github Repo : [https://github.com/semihdesticioglu/twitter-nlp-classifier](https://github.com/semihdesticioglu/twitter-nlp-classifier)
 
