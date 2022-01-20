@@ -80,6 +80,7 @@ You can find this project's Medium article on this link : [https://medium.com/@s
 In this project , I created a time series model with given sales data. I used ARIMAX and SARIMAX algorithms with external features.
 There were some hidden features in data, like holiday and religious days. Adding those features to models decreased error rates.
 
+Github Repo: [https://github.com/semihdesticioglu/SalesForecasting](https://github.com/semihdesticioglu/SalesForecasting)
 
 <img src="images/forecast.png?raw=true" width="500"  height="300" />
 
