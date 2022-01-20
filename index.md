@@ -37,7 +37,7 @@ Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://gith
 
 
 ---
-### Turkcell AI Vision Challenge Contest Project
+### Turkcell AI Vision Challenge Contest / Deep Learning Project
 
 Turkcell AI Vision Challenge competition was held in my company internally and I won the prize with my winning project. Out of 120 project, it is awarded as 1st. 
 I created a CNN deep learning algorithm using Pytorch library and pre-trained Resnet-18 model with transfer learning approach.
@@ -72,6 +72,16 @@ In this project , I tried to create a churn model with the given data. Creating 
 You can find this project's Medium article on this link : [https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c](https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c)
 
 <img src="images/comparison.png?raw=true" />
+
+---
+
+### Sales Forecasting - Time Series Algorithms
+
+In this project , I created a time series model with given sales data. I used ARIMAX and SARIMAX algorithms with external features.
+There were some hidden features in data, like holiday and religious days. Adding those features to models decreased error rates.
+
+
+<img src="images/forecast.png?raw=true" width="500"  height="300" />
 
 ---
 ### Amazon & MediaMarkt Smartphone Prices Web Scraping Project
