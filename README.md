@@ -7,7 +7,8 @@
   Data Analyst with Data Science Master Degree, from Istanbul/Turkey. 
 </p>
 
-I'm a Data Scientist with Data Science Master Degree. I am highly skilled in data analytics and machine learning. I have business units experience in B2B Marketplace Analytics and data analytics projects in sales units.
+I'm a Data Scientist with Data Science Master Degree. I have 3 years of business units experience in B2B marketplace analytics and was the business units responsible for data analytics projects in behalf of Sales departments. 
+Before that I have also 5 years of inventory planning team experience in retail, in 1.5 years of it I have managed a team of planning department for the biggest electronic retail company in Turkey.
 
 Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team.
 
