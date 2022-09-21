@@ -1,24 +1,23 @@
 ## Bio
-I'm a Data Scientist with Data Science Master Degree. I am highly skilled in data analytics and machine learning. I have business units experience in B2B Marketplace Analytics and data analytics projects in sales units.
+I'm an experienced Data Analyst with Data Science Master Degree. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team. I have experience in B2B & Sales Analytics in sales business units and have business teams experience in technology retail at Teknosa for 5 years, 1.5 years of it as planning team head.
 
-Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team.
+Completed my master's degree in Data Science at Sabanci University in 2020 and also writing data science content for  Analytics Vidyha Medium blog page and H20.ai.
+I became the first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
 
-Completed my master's degree in Data Science at Sabanci University in 2020 and also writing for data science content at the Analytics Vidyha Medium blog page.
-I became first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
+My Web Page with Portfolio: https://www.semihdesticioglu.com
 
-My Web Page with Portfolio: https://semihdesticioglu.github.io/semihdesticioglu/
 Medium Articles: https://semihdesticioglu.medium.com/
 
-Skills: 
-+ Python
-+ SQL
-+ PL/SQL
-+ Machine Learning
-+ Data Science
-+ Web Scraping
-+ Data Analysis
-+ Data Modelling
-+ HTML/CSS
+Skills:
+* Programming: SQL, PL/SQL, Python (Pandas, scikit-learn, Flask), Html, CSS
+* Data Modelling, Database Design & Management
+* Data Visualisation: Matplotlib, Microstrategy, Tableau, Qlikview, Power BI
+* Relational Databases: Oracle SQL
+* A/B Testing & Experimentation
+* Cloud Services: AWS, Heroku, IBM Cloud, H20.ai
+* Modeling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
+* Web Scraping: Python (Selenium, BeatifulSoup)
+* Web Development: Flask, Html, CSS, Bootstrap
 
 
 ## Portfolio
