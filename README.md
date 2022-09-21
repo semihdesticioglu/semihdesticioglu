@@ -7,19 +7,26 @@
   Data Analyst with Data Science Master Degree, from Istanbul/Turkey. 
 </p>
 
-I'm a Data Scientist with Data Science Master Degree. I have 3 years of business units experience in B2B marketplace analytics and was the business units responsible for data analytics projects in behalf of Sales departments. 
-Before that I have also 5 years of inventory planning team experience in retail, in 1.5 years of it I have managed a team of planning department for the biggest electronic retail company in Turkey.
+I'm an experienced Data Analyst with Data Science Master Degree. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team. I have experience in B2B & Sales Analytics in sales business units and have business teams experience in technology retail at Teknosa for 5 years, 1.5 years of it as planning team head.
 
-Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team.
+Completed my master's degree in Data Science at Sabanci University in 2020 and also writing data science content for  Analytics Vidyha Medium blog page and H20.ai.
+I became the first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
 
-Completed my master's degree in Data Science at Sabanci University in 2020 and also writing for data science content at the Analytics Vidyha Medium blog page.
-I became first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
 
-My Web Page with Portfolio: https://semihdesticioglu.github.io/semihdesticioglu/
+My Web Page with Portfolio: https://www.semihdesticioglu.com/
 
 Medium Articles: https://semihdesticioglu.medium.com/
 
-Skills: Python, SQL, PL/SQL, Machine Learning, Data Science, Web Scraping, Data Analysis, Data Modelling, HTML/CSS
+Skills:
+*  Programming: SQL, PL/SQL, Python (Pandas, scikit-learn, Flask), Html, CSS
+*  Data Modelling, Database Design & Management
+*  Data Visualisation: Matplotlib, Microstrategy, Tableau, Qlikview, Power BI
+*  Relational Databases: Oracle SQL
+*  A/B Testing & Experimentation
+*  Cloud Services: AWS, Heroku, IBM Cloud, H20.ai
+*  Modeling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
+*  Web Scraping: Python (Selenium, BeatifulSoup)
+*  Web Development: Flask, Html, CSS, Bootstrap
 
 <h3 align='center'>
    Click Links Below To Reach Me 
