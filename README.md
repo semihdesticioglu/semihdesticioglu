@@ -7,25 +7,28 @@
   Data Analyst with Data Science Master Degree, from Istanbul/Turkey. 
 </p>
 
-I'm an experienced Data Analyst with Data Science Master Degree. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team. I have experience in B2B & Sales Analytics in sales business units and have business teams experience in technology retail at Teknosa for 5 years, 1.5 years of it as planning team head.
+I'm an experienced Data Analyst with Data Science Master Degree. Currently working as a Senior Data Analyst in Turkcell at AI and Business Intelligence team. I have experience as a data analytics projects business owner and as a sales analytics specialist. Also have experience in technology retail for 5 years, 1.5 years of it as planning team head.
 
-Completed my master's degree in Data Science at Sabanci University in 2020 and also writing data science content for  Analytics Vidyha Medium blog page and H20.ai.
-I became the first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
+I completed my master's degree in Data Science at Sabanci University in 2020 and also wrote data analytics content for the Analytics Vidyha Medium blog page and H20.ai.  You can see reach these articles on my portfolio website.
 
 
-My Web Page with Portfolio: https://www.semihdesticioglu.com/
+Portfolio: https://www.semihdesticioglu.com
 
 Medium Articles: https://semihdesticioglu.medium.com/
 
+H2O.ai Articles: https://h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o-wave/
+
+GitHub: https://github.com/semihdesticioglu
+
 Skills:
-*  Programming: SQL, PL/SQL, Python (Pandas, scikit-learn, Flask), Html, CSS
+*  Programming: SQL, PL/SQL, Python (Pandas, Scikit-learn), Html, CSS
 *  Data Modelling, Database Design & Management
 *  Data Visualisation: Matplotlib, Microstrategy, Tableau, Qlikview, Power BI
 *  Relational Databases: Oracle SQL
 *  A/B Testing & Experimentation
-*  Cloud Services: AWS, Heroku, IBM Cloud, H20.ai
+*  Cloud Services: AWS, Heroku, IBM Cloud, H20.ai, Docker
 *  Modeling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
-*  Web Scraping: Python (Selenium, BeatifulSoup)
+*  Web Scraping: Scrapy,Selenium, BeatifulSoup
 *  Web Development: Flask, Html, CSS, Bootstrap
 
 <h3 align='center'>
