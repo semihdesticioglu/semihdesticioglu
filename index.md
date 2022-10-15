@@ -1,22 +1,25 @@
 ## Bio
-I'm an experienced Data Analyst with Data Science Master Degree. Currently working as a Senior Expert Data Analyst in Turkcell at AI and Business Intelligence team. I have experience in B2B & Sales Analytics in sales business units and have business teams experience in technology retail at Teknosa for 5 years, 1.5 years of it as planning team head.
+I'm an experienced Data Analyst with Data Science Master Degree. Currently working as a Senior Data Analyst in Turkcell at AI and Business Intelligence team. I have experience as a data analytics projects business owner and as a sales analytics specialist. Also have experience in technology retail for 5 years, 1.5 years of it as planning team head.
 
-Completed my master's degree in Data Science at Sabanci University in 2020 and also writing data science content for  Analytics Vidyha Medium blog page and H20.ai.
-I became the first in Turkcell AI Vision Challenge competition that was held in my company in May 2020 with my CNN deep learning model.
+I completed my master's degree in Data Science at Sabanci University in 2020 and also wrote data analytics content for the Analytics Vidyha Medium blog page and H20.ai.  You can see reach these articles on my portfolio website.
 
-My Web Page with Portfolio: https://www.semihdesticioglu.com
+Portfolio: https://www.semihdesticioglu.com
 
 Medium Articles: https://semihdesticioglu.medium.com/
 
+H2O.ai Articles: https://h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o-wave/
+
+GitHub: https://github.com/semihdesticioglu
+
 Skills:
-* Programming: SQL, PL/SQL, Python (Pandas, scikit-learn, Flask), Html, CSS
+* Programming: SQL, PL/SQL, Python (Pandas, Scikit-learn), Html, CSS
 * Data Modelling, Database Design & Management
 * Data Visualisation: Matplotlib, Microstrategy, Tableau, Qlikview, Power BI
 * Relational Databases: Oracle SQL
 * A/B Testing & Experimentation
 * Cloud Services: AWS, Heroku, IBM Cloud, H20.ai
 * Modeling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
-* Web Scraping: Python (Selenium, BeatifulSoup)
+* Web Scraping: Scrapy, Selenium, BeatifulSoup
 * Web Development: Flask, Html, CSS, Bootstrap
 
 
@@ -35,6 +38,18 @@ All analyses are can be found on Medium Post : [https://medium.com/analytics-vid
 Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://github.com/semihdesticioglu/airbnb_istanbul)
 
 
+---
+### Spotify EDA App with H2O.ai 
+
+I wrote an article about my Spotify Data Analysis Dashboard project which I produced with H20.ai tools. With this tool, you can upload your stream history and see your music history analysis.
+
+Article Link: [https://h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o-wave](https://h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o-wave) 
+Github Repo: [https://github.com/semihdesticioglu/SpotifyWaveApp](https://github.com/semihdesticioglu/SpotifyWaveApp)
+
+<img src="images/spotify_app.png" width="700"  height="300" /> 
+
+
+---
 ---
 ### Turkcell AI Vision Challenge Contest / Deep Learning Project
 
@@ -61,7 +76,19 @@ Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.
 
 
 ---
+### Amazon & MediaMarkt Smartphone Prices Web Scraping Project
 
+This project aims to get smartphone and other devices' current prices from Amazon and MediaMarkt websites by web scraping.
+Selenium, BeatifulSoup and Request libaries are used for scraping.
+Scraping algorithm collects product models, brands, old and new prices from Amazon & MediaMarkt websites and build Pandas dataframes with these collections.
+
+I was nominated to CXO prize with this RPA tool. It is used for monitoring the competitor prices in Turkcell. Tool was sending daily auto-emails with scraped price lists.
+
+Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://github.com/semihdesticioglu/WebScrapingProject)
+
+<img src="images/DataframeCapture.jpg?raw=true" width="500"  height="300" />
+
+---
 
 ### Music App Churn Prediction with Pyspark on IBM Cloud Pak
 
@@ -83,20 +110,6 @@ Github Repo: [https://github.com/semihdesticioglu/SalesForecasting](https://gith
 
 <img src="images/forecast.png?raw=true" width="500"  height="300" />
 
----
-### Amazon & MediaMarkt Smartphone Prices Web Scraping Project
-
-This project aims to get smartphone and other devices' current prices from Amazon and MediaMarkt websites by web scraping.
-Selenium, BeatifulSoup and Request libaries are used for scraping.
-Scraping algorithm collects product models, brands, old and new prices from Amazon & MediaMarkt websites and build Pandas dataframes with these collections.
-
-I was nominated to CXO prize with this RPA tool. It is used for monitoring the competitor prices in Turkcell. Tool was sending daily auto-emails with scraped price lists.
-
-Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://github.com/semihdesticioglu/WebScrapingProject)
-
-<img src="images/DataframeCapture.jpg?raw=true" width="500"  height="300" />
-
----
 
 ### Disaster Response Project - Multioutput NLP Classifier
 
