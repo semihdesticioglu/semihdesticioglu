@@ -12,7 +12,7 @@ H2O.ai Articles: https://h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o
 GitHub: https://github.com/semihdesticioglu
 
 Skills:
-* Programming: SQL, PL/SQL, Python (Pandas, Scikit-learn), Html, CSS
+* Programming: SQL, PL/SQL, Python (Pandas, Scikit-learn)
 * Data Modelling, Database Design & Management
 * Data Visualisation: Matplotlib, Microstrategy, Tableau, Qlikview, Power BI
 * Relational Databases: Oracle SQL
