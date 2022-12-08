@@ -12,7 +12,7 @@ I'm an experienced Data Analyst with Data Analytics Master Degree. Currently wor
 I completed my master's degree in Data Analytics at Sabanci University in 2020 and also wrote data analytics content for the Analytics Vidyha Medium blog page and H20.ai.  You can see reach these articles on my portfolio website.
 
 
-Portfolio: https://www.semihdesticioglu.com
+Portfolio: http://www.semihdesticioglu.com
 
 Medium Articles: https://semihdesticioglu.medium.com/
 
