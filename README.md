@@ -25,7 +25,7 @@ Skills:
 *  Data Modelling, Database Design & Management, Extract-Transform-Load (ETL)
 *  Data Visualisation: Matplotlib, Microstrategy, Tableau, Power BI, Looker
 *  Databases: Oracle, BigQuery, Firebase
-*  Cloud Services: AWS, Heroku, IBM Cloud, H20.ai, Docker
+*  Cloud Services: AWS, Heroku, IBM Cloud, H20.ai, GCP
 *  Modeling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
 *  Web Scraping: Scrapy,Selenium, BeatifulSoup
 *  Web/App Development: Flask, Html, CSS, Bootstrap, FlutterFlow
