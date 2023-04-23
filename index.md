@@ -27,20 +27,21 @@ Kafka, Delta Lake, Airflow, Spark
 
 ## Portfolio
 
+### Real-time IoT Sensor Data Dashboard
+
+<img src="https://github.com/semihdesticioglu/Streaming_Sensor_Data_Realtime_Dashboard/blob/f1990afe1731b2495b0891c28c38f2b0705f9895/images/streaming_sensor_data.jpg" width="500"  height="300"/>
+
+This project aims to visualize sensor data in real-time by utilizing Spark Streaming, Kafka, and Kibana. The dataset contains data from 255 sensors in 51 rooms across 4 floors of the Sutardja Dai Hall at UC Berkeley. The data includes CO2 concentration, humidity, temperature, light, and PIR motion sensor readings. 
+The project involves 
+* preprocessing the dataset with PySpark, 
+* producing it into a Kafka topic, 
+* consuming the topic with Spark Streaming, 
+* and finally visualizing the data with Kibana on ElasticSearch.
+
+Github Repo : [https://github.com/semihdesticioglu/Real-time-IoT-Sensor-Data-Dashboard](https://github.com/semihdesticioglu/Real-time-IoT-Sensor-Data-Dashboard)
+
 ---
 
-### Airbnb Istanbul Data Analysis 
-
-<img src="https://miro.medium.com/max/2000/1*9N7PTJYYvUEqIQZnDJh4LQ.jpeg" width="500"  height="300"/>
-
-I analyzed Airbnb Istanbul data and answer some questions about the data. The project’s scope is exploratory data analysis with visuals and maps, applying a statistical test to data to answer the questions correctly.
-
-All analyses are can be found on Medium Post : [https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4](https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4) 
-
-Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://github.com/semihdesticioglu/airbnb_istanbul)
-
-
----
 ### Spotify EDA App with H2O.ai 
 
 I wrote an article about my Spotify Data Analysis Dashboard project which I produced with H20.ai tools. With this tool, you can upload your stream history and see your music history analysis.
@@ -50,8 +51,18 @@ Github Repo: [https://github.com/semihdesticioglu/SpotifyWaveApp](https://github
 
 <img src="images/spotify_app.png" width="700"  height="300" /> 
 
-
 ---
+### Covid-19 Dashboard Turkey 💻 📈 by Using Python 🐍
+
+End-to-end dashboard project to visualize COVID 19 data of Turkey.
+It is built using Python's Flask Web Framework and deployed on Heroku cloud.
+Plotly library from Python is used to visualise data.
+For front-end development bootstrap, javascript and CSS are used together on HTML.
+
+Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.herokuapp.com/)
+
+<img src="images/covid19.gif" width="500"  height="300" /> 
+
 ---
 ### Turkcell AI Vision Challenge Contest / Deep Learning Project
 
@@ -64,18 +75,15 @@ Github Repo: [https://github.com/semihdesticioglu/t-ai-vision-challenge](https:/
 
 
 ---
+### Airbnb Istanbul Data Analysis 
 
-### Covid-19 Dashboard Turkey 💻 📈 by Using Python 🐍
+<img src="https://miro.medium.com/max/2000/1*9N7PTJYYvUEqIQZnDJh4LQ.jpeg" width="500"  height="300"/>
 
-End-to-end dashboard project to visualize COVID 19 data of Turkey.
-It is built using Python's Flask Web Framework and deployed on Heroku cloud.
-Plotly library from Python is used to visualise data.
-For front-end development bootstrap, javascript and CSS are used together on HTML.
+I analyzed Airbnb Istanbul data and answer some questions about the data. The project’s scope is exploratory data analysis with visuals and maps, applying a statistical test to data to answer the questions correctly.
 
-Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.herokuapp.com/)
+All analyses are can be found on Medium Post : [https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4](https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4) 
 
-<img src="images/covid19.gif" width="500"  height="300" /> 
-
+Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://github.com/semihdesticioglu/airbnb_istanbul)
 
 ---
 ### Amazon & MediaMarkt Smartphone Prices Web Scraping Project
@@ -95,23 +103,13 @@ Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://g
 ### Music App Churn Prediction with Pyspark on IBM Cloud Pak
 
 In this project , I tried to create a churn model with the given data. Creating new features on feature engineering section added valueable improvements to the model.
-
+Data processing done with PySpark on distributed environment.
 
 You can find this project's Medium article on this link : [https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c](https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c)
 
 <img src="images/comparison.png?raw=true" />
 
 ---
-
-### Sales Forecasting - Time Series Algorithms
-
-In this project , I created a time series model with given sales data. I used ARIMAX and SARIMAX algorithms with external features.
-There were some hidden features in data, like holiday and religious days. Adding those features to models decreased error rates.
-
-Github Repo: [https://github.com/semihdesticioglu/SalesForecasting](https://github.com/semihdesticioglu/SalesForecasting)
-
-<img src="images/forecast.png?raw=true" width="500"  height="300" />
-
 
 ### Disaster Response Project - Multioutput NLP Classifier
 
@@ -125,16 +123,6 @@ Github Repo : [https://github.com/semihdesticioglu/twitter-nlp-classifier](https
 
 ---
 
-### Creating My Own Python Package 
-
-In this project, I created a Distribution Package . Package contains functions to make calculations for normal distributions, binomial distributions and Gaussian distributions. Package is uploaded to PyPi repository.
-
-You can install my package with this command :  pip install distributions-semihdesticioglu==0.1
-
-Github Repo : [https://github.com/semihdesticioglu/distributions-semihdesticioglu-0.1](https://github.com/semihdesticioglu/distributions-semihdesticioglu-0.1)
-
-<img src="images/Pypiorg-capture.jpg?raw=true" width="500"  height="300" />
----
 
 
 ---
