@@ -21,14 +21,17 @@ H2O.ai Articles: https://h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o
 GitHub: https://github.com/semihdesticioglu
 
 Skills:
-*  Programming: SQL, PL/SQL, PostgreSQL, NoSQL, Python (Pandas, Sci-kit-learn), PySpark
-*  Data Modelling, Database Design & Management, Extract-Transform-Load (ETL)
-*  Data Visualisation: Matplotlib, Microstrategy, Tableau, Power BI, Looker
-*  Databases: Oracle, BigQuery, Firebase
-*  Cloud Services: AWS, Heroku, IBM Cloud, H20.ai, GCP
-*  Modeling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
-*  Web Scraping: Scrapy,Selenium, BeatifulSoup
-*  Web/App Development: Flask, Html, CSS, Bootstrap, FlutterFlow
+*  Programming: Python (Pandas, Sci-kit-learn, PySpark, Kafka Python Driver), SQL, PL/SQL, NoSQL
+*  Data Engineering: Data Modeling, Database Design & Management, ETL, Hadoop HDFS, Hadoop YARN, Hadoop MapReduce, Hive, Sqoop,
+Kafka, Delta Lake, Airflow, Spark
+*  Data Visualization: Matplotlib, Microstrategy, Tableau
+*  Databases: Oracle, BigQuery, Firebase, Elasticsearch, Cassandra, MongoDB
+*  Cloud Services: AWS, Google Cloud, Heroku, IBM Cloud, H20.ai
+*  Web Scraping: Selenium, Beautiful Soup, Scrapy
+*  Containerization: Docker, Kubernetes
+*  Linux Basic and Bash Scripting
+*  Web/App Development: Flask, HTML, CSS, FlutterFlow
+*  Modelling: Supervised & Unsupervised Learning, Time Series Forecasting, Neural Networks, Deep Learning
 
 <h3 align='center'>
    Click Links Below To Reach Me 
