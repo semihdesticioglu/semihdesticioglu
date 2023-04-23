@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Data Analyst with Data Science Master Degree, from Istanbul/Turkey. 
+  Data Analyst with Data Analytics Master Degree, from Istanbul/Turkey. 
 </p>
 
 I'm an experienced Data Analyst with Data Analytics Master Degree. Currently working as a Senior Data Analyst in Turkcell at AI and Business Intelligence team. I have experience as a data analytics projects business owner and as a sales analytics specialist. Also have experience in technology retail for 5 years, 1.5 years of it as planning team head.
