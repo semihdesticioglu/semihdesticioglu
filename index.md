@@ -1,5 +1,5 @@
 ## Bio
-I'm an experienced Data Analyst with Data Analytics Master Degree. Currently working as a Senior Data Analyst in Turkcell at AI and Business Intelligence team. I have experience as a data analytics projects business owner and as a sales analytics specialist. Also have experience in technology retail for 5 years, 1.5 years of it as planning team head.
+I'm a Senior Datawarehouse Analyst with Data Analytics Master Degree. Currently working as a Senior Datawarehouse Analyst in Turkcell at AI and Business Intelligence team. I have experience as a data analytics projects business owner and as a sales analytics specialist. Also have experience in technology retail for 5 years, 1.5 years of it as planning team head.
 
 I completed my master's degree in Data Analytics at Sabanci University in 2020 and also wrote data analytics content for the Analytics Vidyha Medium blog page and H20.ai.  You can see reach these articles on my portfolio website.
 
@@ -31,12 +31,12 @@ Kafka, Delta Lake, Airflow, Spark
 
 <img src="https://github.com/semihdesticioglu/Streaming_Sensor_Data_Realtime_Dashboard/blob/f1990afe1731b2495b0891c28c38f2b0705f9895/images/streaming_sensor_data.jpg" width="500"  height="300"/>
 
-This project aims to visualize sensor data in real-time by utilizing Spark Streaming, Kafka, and Kibana. The dataset contains data from 255 sensors in 51 rooms across 4 floors of the Sutardja Dai Hall at UC Berkeley. The data includes CO2 concentration, humidity, temperature, light, and PIR motion sensor readings. 
+This project aims to visualize sensor data in real time by utilizing Spark Streaming, Kafka, and Kibana. The dataset contains data from 255 sensors in 51 rooms across 4 floors of the Sutardja Dai Hall at UC Berkeley. The data includes CO2 concentration, humidity, temperature, light, and PIR motion sensor readings. 
 The project involves 
 * preprocessing the dataset with PySpark, 
 * producing it into a Kafka topic, 
 * consuming the topic with Spark Streaming, 
-* and finally visualizing the data with Kibana on ElasticSearch.
+* and finally visualize the data with Kibana on ElasticSearch.
 
 Github Repo : [https://github.com/semihdesticioglu/Real-time-IoT-Sensor-Data-Dashboard](https://github.com/semihdesticioglu/Real-time-IoT-Sensor-Data-Dashboard)
 
@@ -54,10 +54,10 @@ Github Repo: [https://github.com/semihdesticioglu/SpotifyWaveApp](https://github
 ---
 ### Covid-19 Dashboard Turkey 💻 📈 by Using Python 🐍
 
-End-to-end dashboard project to visualize COVID 19 data of Turkey.
+End-to-end dashboard project to visualize COVID-19 data of Turkey.
 It is built using Python's Flask Web Framework and deployed on Heroku cloud.
-Plotly library from Python is used to visualise data.
-For front-end development bootstrap, javascript and CSS are used together on HTML.
+Plotly library from Python is used to visualize data.
+For front-end development bootstrap, javascript, and CSS are used together on HTML.
 
 Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.herokuapp.com/)
 
@@ -66,8 +66,8 @@ Link to the app: [https://covid19turkiye.herokuapp.com/](https://covid19turkiye.
 ---
 ### Turkcell AI Vision Challenge Contest / Deep Learning Project
 
-Turkcell AI Vision Challenge competition was held in my company internally and I won the prize with my winning project. Out of 120 project, it is awarded as 1st. 
-I created a CNN deep learning algorithm using Pytorch library and pre-trained Resnet-18 model with transfer learning approach.
+Turkcell AI Vision Challenge competition was held in my company internally and I won the prize with my winning project. Out of 120 projects, it is awarded as 1st. 
+I created a CNN deep learning algorithm using Pytorch library and pre-trained Resnet-18 model with the transfer learning approach.
 
 Github Repo: [https://github.com/semihdesticioglu/t-ai-vision-challenge](https://github.com/semihdesticioglu/t-ai-vision-challenge)
 
@@ -79,9 +79,9 @@ Github Repo: [https://github.com/semihdesticioglu/t-ai-vision-challenge](https:/
 
 <img src="https://miro.medium.com/max/2000/1*9N7PTJYYvUEqIQZnDJh4LQ.jpeg" width="500"  height="300"/>
 
-I analyzed Airbnb Istanbul data and answer some questions about the data. The project’s scope is exploratory data analysis with visuals and maps, applying a statistical test to data to answer the questions correctly.
+I analyzed Airbnb Istanbul data and answered some questions about the data. The project’s scope is exploratory data analysis with visuals and maps, applying a statistical test to data to answer the questions correctly.
 
-All analyses are can be found on Medium Post : [https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4](https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4) 
+All analyses can be found on Medium Post : [https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4](https://medium.com/analytics-vidhya/airbnb-istanbul-data-analysis-b510c98a37e4) 
 
 Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://github.com/semihdesticioglu/airbnb_istanbul)
 
@@ -89,8 +89,8 @@ Github Repo : [https://github.com/semihdesticioglu/airbnb_istanbul](https://gith
 ### Amazon & MediaMarkt Smartphone Prices Web Scraping Project
 
 This project aims to get smartphone and other devices' current prices from Amazon and MediaMarkt websites by web scraping.
-Selenium, BeatifulSoup and Request libaries are used for scraping.
-Scraping algorithm collects product models, brands, old and new prices from Amazon & MediaMarkt websites and build Pandas dataframes with these collections.
+Selenium, BeatifulSoup, and Request libraries are used for scraping.
+The scraping algorithm collects product models, brands, and old and new prices from Amazon & MediaMarkt websites and builds Pandas dataframes with these collections.
 
 I was nominated to CXO prize with this RPA tool. It is used for monitoring the competitor prices in Turkcell. Tool was sending daily auto-emails with scraped price lists.
 
@@ -102,8 +102,8 @@ Github Repo : [https://github.com/semihdesticioglu/WebScrapingProject](https://g
 
 ### Music App Churn Prediction with Pyspark on IBM Cloud Pak
 
-In this project , I tried to create a churn model with the given data. Creating new features on feature engineering section added valueable improvements to the model.
-Data processing done with PySpark on distributed environment.
+In this project, I tried to create a churn model with the given data. Creating new features in the feature engineering section added valuable improvements to the model.
+Data processing is done with PySpark in distributed environment.
 
 You can find this project's Medium article on this link : [https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c](https://medium.com/@semihdesticioglu/predicting-music-app-churns-with-machine-learning-sparkify-project-dfc2ac2c695c)
 
@@ -113,9 +113,9 @@ You can find this project's Medium article on this link : [https://medium.com/@s
 
 ### Disaster Response Project - Multioutput NLP Classifier
 
-This project aims building a Natural Language Processing (NLP) model to categorize messages for possible disaster events that could happen in future.
+This project aims to build a Natural Language Processing (NLP) model to categorize messages for possible disaster events that could happen in the future.
 
-In this project, I have built a Multioutput Classification model to predict message categories in future possible disasters.There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help,Food, Death etc. By classifying these messages, we can help government or other aid organizations about prioritizing critical messases in possible disaster events. 
+In this project, I have built a Multioutput Classification model to predict message categories in future possible disasters. There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help, Food, Death etc. By classifying these messages, we can help the government or other aid organizations prioritize critical messages in possible disaster events. 
 
 Github Repo : [https://github.com/semihdesticioglu/twitter-nlp-classifier](https://github.com/semihdesticioglu/twitter-nlp-classifier)
 
@@ -126,5 +126,5 @@ Github Repo : [https://github.com/semihdesticioglu/twitter-nlp-classifier](https
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+<!-- Remove the above link if you don't want to attribute -->
